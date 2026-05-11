@@ -1,0 +1,11 @@
+# Generated data directories (created when notebooks are executed)
+data/
+models/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
