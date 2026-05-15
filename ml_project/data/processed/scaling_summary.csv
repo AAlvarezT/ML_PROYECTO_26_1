@@ -1,0 +1,16 @@
+variable_original,variable_std,variable_minmax,variable_robust,media_original,media_std,minmax_min,minmax_max,mediana_robust
+C208,C208_std,C208_minmax,C208_robust,42.025,-0.0,0.0,1.0,0.0
+C318_T,C318_T_std,C318_T_minmax,C318_T_robust,40.7753,0.0,0.0,1.0,0.0
+C328_T,C328_T_std,C328_T_minmax,C328_T_robust,14.3576,0.0,0.0,1.0,0.0
+whoraT,whoraT_std,whoraT_minmax,whoraT_robust,44.4966,-0.0,0.0,1.0,0.0
+C331,C331_std,C331_minmax,C331_robust,42.4012,-0.0,0.0,1.0,0.0
+INGTOT,INGTOT_std,INGTOT_minmax,INGTOT_robust,2047.3829,0.0,0.0,1.0,0.0
+INGTOTP,INGTOTP_std,INGTOTP_minmax,INGTOTP_robust,1976.7484,0.0,0.0,1.0,0.0
+ingtrabw,ingtrabw_std,ingtrabw_minmax,ingtrabw_robust,2195.8287,0.0,0.0,1.0,0.0
+I339_1,I339_1_std,I339_1_minmax,I339_1_robust,2084.205,-0.0,0.0,1.0,0.0
+I342,I342_std,I342_minmax,I342_robust,1574.0476,0.0,0.0,1.0,0.0
+I345_1,I345_1_std,I345_1_minmax,I345_1_robust,924.1101,-0.0,0.0,1.0,0.0
+I348,I348_std,I348_minmax,I348_robust,698.5273,-0.0,0.0,1.0,0.0
+INGTOT_log,INGTOT_log_std,INGTOT_log_minmax,INGTOT_log_robust,7.2786,0.0,0.0,1.0,0.0
+INGTOTP_log,INGTOTP_log_std,INGTOTP_log_minmax,INGTOTP_log_robust,7.2461,0.0,0.0,1.0,0.0
+INGTRABW_log,INGTRABW_log_std,INGTRABW_log_minmax,INGTRABW_log_robust,7.3235,-0.0,0.0,1.0,0.0

@@ -1,0 +1,13 @@
+columna,cantidad_nulos,porcentaje_nulos,tipo_dato
+I345_1_log,23491,0.9766,float64
+I345_1,23491,0.9766,float64
+I348,22516,0.9361,float64
+I348_log,22516,0.9361,float64
+C328_T,21604,0.8981,float64
+C331,20614,0.857,float64
+fa_ond24,18334,0.7622,float64
+fa_jas24,18062,0.7509,float64
+fa_amj24,17885,0.7435,float64
+fa_efm24,17881,0.7434,float64
+I342,15643,0.6503,float64
+I342_log,15643,0.6503,float64

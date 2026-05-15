@@ -1,0 +1,16 @@
+columna_original,columna_std,columna_minmax,columna_robust
+C208,C208_std,C208_minmax,C208_robust
+C318_T,C318_T_std,C318_T_minmax,C318_T_robust
+C328_T,C328_T_std,C328_T_minmax,C328_T_robust
+whoraT,whoraT_std,whoraT_minmax,whoraT_robust
+C331,C331_std,C331_minmax,C331_robust
+INGTOT,INGTOT_std,INGTOT_minmax,INGTOT_robust
+INGTOTP,INGTOTP_std,INGTOTP_minmax,INGTOTP_robust
+ingtrabw,ingtrabw_std,ingtrabw_minmax,ingtrabw_robust
+I339_1,I339_1_std,I339_1_minmax,I339_1_robust
+I342,I342_std,I342_minmax,I342_robust
+I345_1,I345_1_std,I345_1_minmax,I345_1_robust
+I348,I348_std,I348_minmax,I348_robust
+INGTOT_log,INGTOT_log_std,INGTOT_log_minmax,INGTOT_log_robust
+INGTOTP_log,INGTOTP_log_std,INGTOTP_log_minmax,INGTOTP_log_robust
+INGTRABW_log,INGTRABW_log_std,INGTRABW_log_minmax,INGTRABW_log_robust

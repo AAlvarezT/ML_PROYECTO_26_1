@@ -1,0 +1,17 @@
+feature,tipo_dato,nulos,n_unicos,pct_nulos
+ingreso_total,float64,774,3021,3.2178
+ingreso_principal,float64,774,2843,3.2178
+ingreso_laboral,float64,774,4118,3.2178
+ingreso_total_log,float64,774,3021,3.2178
+ingreso_principal_log,float64,774,2843,3.2178
+ingreso_laboral_log,float64,774,4118,3.2178
+ingreso_por_hora,float64,774,11168,3.2178
+ingreso_por_hora_log,float64,774,10917,3.2178
+ingreso_secundario_total,float64,0,2049,0.0
+tiene_ingreso_secundario,int64,0,2,0.0
+proporcion_ingreso_principal,float64,774,1331,3.2178
+dependencia_ingreso_principal,int64,0,2,0.0
+bajo_ingreso_relativo,int64,0,2,0.0
+alto_ingreso_relativo,int64,0,2,0.0
+ingreso_cero,int64,0,1,0.0
+ingreso_outlier,int64,0,2,0.0

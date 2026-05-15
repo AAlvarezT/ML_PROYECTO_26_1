@@ -1,0 +1,16 @@
+feature,tipo_dato,nulos,n_unicos,pct_nulos
+sexo_mujer,int64,0,2,0.0
+sexo_hombre,int64,0,2,0.0
+edad,float64,0,78,0.0
+grupo_edad,category,0,6,0.0
+joven,int64,0,2,0.0
+adulto_mayor,int64,0,2,0.0
+jefe_hogar,int64,0,2,0.0
+conyuge,int64,0,2,0.0
+hijo_hogar,int64,0,2,0.0
+tiene_discapacidad,int64,0,2,0.0
+cantidad_limitaciones,int64,0,6,0.0
+lengua_materna_indigena,int64,0,2,0.0
+autoidentificacion_indigena,int64,0,2,0.0
+autoidentificacion_afro,int64,0,2,0.0
+autoidentificacion_mestizo,int64,0,2,0.0

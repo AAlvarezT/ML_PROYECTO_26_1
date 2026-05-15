@@ -1,0 +1,4 @@
+model_name,model_type,uses_class_weight,accuracy,precision_0,recall_0,f1_0,precision_1,recall_1,f1_1,roc_auc
+Dummy (most_frequent),DummyClassifier,None,0.751,0.751,1.0,0.8578,0.0,0.0,0.0,0.5
+Logistic Regression (sin balanceo),LogisticRegression,None,0.7763,0.7836,0.9701,0.8669,0.6805,0.192,0.2995,0.6967
+Logistic Regression (class_weight='balanced'),LogisticRegression,balanced,0.6861,0.8354,0.7249,0.7762,0.4069,0.5693,0.4746,0.6972

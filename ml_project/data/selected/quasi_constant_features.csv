@@ -1,0 +1,12 @@
+feature,dominant_value,dominant_pct
+C375_1,2,0.997
+C375_2,2,0.9994
+C375_3,2,0.9996
+C375_4,2,0.9986
+C375_5,2,0.9982
+C375_6,2,0.9983
+whoraT_missing_flag,0,0.9998
+C318_T_missing_flag,0,0.9999
+whoraT_outlier_flag,0,0.9999
+tiene_discapacidad,0,0.9922
+cantidad_limitaciones,0,0.9922

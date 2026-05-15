@@ -1,0 +1,34 @@
+selected_feature,selection_source,feature_group
+C318_T,ranking,Otros
+INGTOT_log,ranking,Ingresos
+INGTRABW_log,ranking,Ingresos
+INGTOT,ranking,Ingresos
+ingtrabw,ranking,Ingresos
+C335_1,ranking,Otros
+C335_2,ranking,Otros
+busca_otro_empleo,ranking,Otros
+I342,ranking,Otros
+trabaja_menos_35h,ranking,Otros
+INGTOTP,ranking,Ingresos
+ingreso_por_hora_log,ranking,Horas
+ingreso_secundario_total,ranking,Ingresos
+ingreso_por_hora,ranking,Horas
+C377,ranking,Otros
+SEGURO1,ranking,Protección social
+INGTOTP_log,ranking,Ingresos
+C208,ranking,Demográficas
+horas_secundaria,ranking,Horas
+I339_1,ranking,Otros
+tiene_pension,ranking,Protección social
+C207,ranking,Otros
+whoraT,ranking,Horas
+tiene_sis,ranking,Protección social
+C361_5,ranking,Educación
+C328_T,ranking,Otros
+C366,ranking,Educación
+grupo_edad_35_44,ranking,Demográficas
+jefe_hogar,ranking,Otros
+C311_ ,ranking,Otros
+empresa_registrada_sunat,manual_conceptual,Empleo/Formalidad
+tiene_seguro_salud,manual_conceptual,Protección social
+proteccion_social_completa,manual_conceptual,Protección social

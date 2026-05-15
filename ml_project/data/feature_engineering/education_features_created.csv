@@ -1,0 +1,10 @@
+feature,tipo_dato,nulos,n_unicos,pct_nulos
+nivel_educativo_ord,int64,0,12,0.0
+educacion_basica_o_menos,int64,0,2,0.0
+secundaria_completa,int64,0,2,0.0
+superior_incompleta,int64,0,2,0.0
+superior_completa,int64,0,2,0.0
+universitaria_completa_o_mas,int64,0,2,0.0
+educacion_superior,int64,0,2,0.0
+brecha_educativa_baja,int64,0,2,0.0
+grupo_educativo,str,0,7,0.0
