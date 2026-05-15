@@ -18,7 +18,6 @@ Al finalizar esta etapa, el dataset `epen_features_final.csv` está listo para l
 ├── 02_education_features.ipynb     ← Variables de nivel educativo
 ├── 03_employment_features.ipynb    ← Variables de condiciones laborales
 ├── 04_income_features.ipynb        ← Variables de ingresos
-├── train_test_split.ipynb          ← División 80/20 estratificada
 │
 ├── demographic_features.ipynb      (versión anterior — conservado como referencia)
 ├── education_features.ipynb        (versión anterior — conservado como referencia)
@@ -47,7 +46,7 @@ Al finalizar esta etapa, el dataset `epen_features_final.csv` está listo para l
   04_income_features.ipynb
             │
             ▼ epen_features_final.csv
-  train_test_split.ipynb
+  05_train_test_splits/train_test_split.ipynb
             │
    ┌────────┴────────┐
    │                 │
@@ -194,17 +193,6 @@ Construye variables de nivel de ingresos. Es el **último notebook de feature en
 
 ---
 
-### train_test_split.ipynb
-
-**Entrada:** `data/feature_engineering/epen_features_final.csv`  
-**Salida:** `data/split/X_train.csv`, `X_test.csv`, `y_train.csv`, `y_test.csv`
-
-| Parámetro | Valor |
-|:----------|:------|
-| Test size | 20% |
-| Estratificación | `target_subempleo_horas` |
-| random_state | 42 |
-
 ---
 
 ## Archivos Generados
@@ -219,10 +207,6 @@ Construye variables de nivel de ingresos. Es el **último notebook de feature en
 | `employment_features_created.csv` | `data/feature_engineering/` | Reporte de features laborales |
 | `epen_features_final.csv` | `data/feature_engineering/` | Dataset final con TODAS las features |
 | `income_features_created.csv` | `data/feature_engineering/` | Reporte de features de ingresos |
-| `X_train.csv` | `data/split/` | Features de entrenamiento |
-| `X_test.csv` | `data/split/` | Features de prueba |
-| `y_train.csv` | `data/split/` | Target de entrenamiento |
-| `y_test.csv` | `data/split/` | Target de prueba |
 
 ---
 
@@ -233,8 +217,9 @@ Construye variables de nivel de ingresos. Es el **último notebook de feature en
 2. 02_education_features.ipynb
 3. 03_employment_features.ipynb
 4. 04_income_features.ipynb
-5. train_test_split.ipynb
 ```
+
+Siguiente paso → `05_train_test_splits/train_test_split.ipynb`
 
 ---
 
