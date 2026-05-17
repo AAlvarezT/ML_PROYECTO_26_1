@@ -1,5 +1,5 @@
 # Generated data directories (created when notebooks are executed)
-data/
+#data/
 models/
 
 # Jupyter checkpoints
