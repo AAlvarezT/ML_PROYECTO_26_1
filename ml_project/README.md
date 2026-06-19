@@ -1,6 +1,9 @@
-# ML Project – Encuesta Permanente de Empleo Nacional (EPEN)
+# ML Project – Análisis y predicción del subempleo por insuficiencia de horas en el Perú
 
-Proyecto de Machine Learning para predecir la condición de desocupación a partir de la Encuesta Permanente de Empleo Nacional.
+**Universidad del Pacífico – Facultad de Ingeniería | Curso: Machine Learning**  
+Jordán, Guillermo · Munayco, Alessandra · Alvarez de la Torre, Arturo · Rojas, Priscila
+
+> Aplicamos modelos de clasificación supervisada para predecir el **subempleo por insuficiencia de horas** en trabajadores ocupados del Perú, usando datos de la EPEN 2024 (INEI).
 
 ---
 
