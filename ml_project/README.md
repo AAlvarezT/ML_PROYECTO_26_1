@@ -103,16 +103,18 @@ pip install pandas numpy scikit-learn matplotlib seaborn imbalanced-learn joblib
 
 ## Variable objetivo
 
-| Variable | Descripción |
-|---|---|
-| `target_desocupado` | `1` = Persona desocupada (busca empleo activamente) |
-| | `0` = Persona ocupada o fuera de la PEA |
+- Variable: `target_subempleo_horas`
+- `1` = Trabajador ocupado con voluntad y disponibilidad para trabajar más horas.
+- `0` = Trabajador ocupado sin voluntad o sin disponibilidad para trabajar más horas.
+- El target se construye a partir de `P209H` y sus componentes `C333` y `C334`.
+- El problema es clasificación binaria de subempleo por insuficiencia de horas, no desocupación ni desempleo abierto.
 
 ---
 
 ## Modelo final
 
-- **Algoritmo:** Random Forest Classifier
+- **Algoritmo:** Logistic Regression (`class_weight='balanced'`)
 - **Preprocesamiento:** StandardScaler dentro de un Pipeline de scikit-learn
 - **Optimización:** GridSearchCV con 5-fold cross-validation
-- **Métrica principal:** ROC-AUC
+- **Métrica principal:** F1-score de la clase positiva (subempleado por horas)
+- **Métrica complementaria:** ROC-AUC
