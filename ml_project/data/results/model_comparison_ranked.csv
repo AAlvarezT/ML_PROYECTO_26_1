@@ -1,0 +1,14 @@
+model_name,model_type,uses_class_weight,accuracy,precision_0,recall_0,f1_0,precision_1,recall_1,f1_1,roc_auc
+Logistic Regression (class_weight='balanced'),LogisticRegression,balanced,0.6861,0.8354,0.7249,0.7762,0.4069,0.5693,0.4746,0.6972
+"SVC (RBF, balanced)",SVC,balanced,0.7132,0.8269,0.7816,0.8036,0.4348,0.5067,0.468,0.682
+Decision Tree (GridSearchCV),DecisionTreeClassifier,balanced,0.6953,0.8256,0.7534,0.7878,0.4115,0.52,0.4594,0.686
+Random Forest (GridSearchCV),RandomForestClassifier,balanced,0.7227,0.8196,0.8087,0.8142,0.4454,0.4633,0.4542,0.6921
+GaussianNB,GaussianNB,None,0.7132,0.805,0.8157,0.8103,0.4209,0.404,0.4123,0.6524
+Decision Tree (balanced),DecisionTreeClassifier,balanced,0.677,0.7851,0.7847,0.7849,0.3517,0.3523,0.352,0.5686
+Decision Tree (base),DecisionTreeClassifier,,0.6708,0.7835,0.7761,0.7798,0.3433,0.3531,0.3481,0.5642
+Random Forest (base),RandomForestClassifier,,0.7672,0.7864,0.9474,0.8594,0.5852,0.2237,0.3237,0.6554
+HistGradientBoostingClassifier,HistGradientBoostingClassifier,None,0.7782,0.7872,0.9657,0.8674,0.6728,0.2129,0.3234,0.6984
+Logistic Regression (sin balanceo),LogisticRegression,,0.7763,0.7836,0.9701,0.8669,0.6805,0.192,0.2995,0.6967
+Random Forest (balanced),RandomForestClassifier,balanced,0.7647,0.7817,0.9527,0.8588,0.5809,0.1978,0.2951,0.6529
+MLPClassifier,MLPClassifier,None,0.7697,0.779,0.9679,0.8632,0.6398,0.172,0.2711,0.6734
+Dummy (most_frequent),DummyClassifier,,0.751,0.751,1.0,0.8578,0.0,0.0,0.0,0.5

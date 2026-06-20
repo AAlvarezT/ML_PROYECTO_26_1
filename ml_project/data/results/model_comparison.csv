@@ -8,3 +8,7 @@ Decision Tree (GridSearchCV),DecisionTreeClassifier,balanced,0.6953,0.8256,0.753
 Random Forest (base),RandomForestClassifier,,0.7672,0.7864,0.9474,0.8594,0.5852,0.2237,0.3237,0.6554
 Random Forest (balanced),RandomForestClassifier,balanced,0.7647,0.7817,0.9527,0.8588,0.5809,0.1978,0.2951,0.6529
 Random Forest (GridSearchCV),RandomForestClassifier,balanced,0.7227,0.8196,0.8087,0.8142,0.4454,0.4633,0.4542,0.6921
+"SVC (RBF, balanced)",SVC,balanced,0.7132,0.8269,0.7816,0.8036,0.4348,0.5067,0.468,0.682
+GaussianNB,GaussianNB,None,0.7132,0.805,0.8157,0.8103,0.4209,0.404,0.4123,0.6524
+MLPClassifier,MLPClassifier,None,0.7697,0.779,0.9679,0.8632,0.6398,0.172,0.2711,0.6734
+HistGradientBoostingClassifier,HistGradientBoostingClassifier,None,0.7782,0.7872,0.9657,0.8674,0.6728,0.2129,0.3234,0.6984
