@@ -1,6 +1,11 @@
 # ML_PROYECTO
 Repositorio para proyecto ML de "ENCUESTA PERMANENTE DE EMPLEO NACIONAL"
-
+# Grupo 3:
+- Alvarez de la Torre, Arturo
+- Jordán, Guillermo
+- Munayco, Alessandra
+- Rojas, Priscila
+  
 ## Estructura
 
 ```
